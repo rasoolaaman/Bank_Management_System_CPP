@@ -25,7 +25,7 @@ main.cpp: The entry point and user interface logic.
 account.dat / records.txt: The database file where account information is stored.
 
 ⚙️ How to Run
-Clone this repository: git clone https://github.com/yourusername/Bank_Management_System_CPP.git
+Clone this repository: git clone https://github.com/rasoolaaman/Bank_Management_System_CPP.git
 
 Open the project in any C++ IDE (VS Code, Code::Blocks, or Dev-C++).
 
